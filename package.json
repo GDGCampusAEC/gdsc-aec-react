@@ -11,6 +11,16 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/gdsc-aec-india/GDSCAEC-WEBSITE.git"
+  },
+  "author":"GDSC AEC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gdsc-aec-india/GDSCAEC-WEBSITE/issues"
+  },
+  "homepage": "https://gdscaec.club",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
