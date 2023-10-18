@@ -1,10 +1,10 @@
 <p>
-    <img src="https://img.shields.io/github/issues-raw/gdsc-aec-india/gdsc-aec-web"> 
-    <img src="https://img.shields.io/github/contributors/gdsc-aec-india/gdsc-aec-web">
-    <img src="https://img.shields.io/github/issues-pr/gdsc-aec-india/gdsc-aec-web">
-    <img src="https://img.shields.io/github/license/gdsc-aec-india/gdsc-aec-web">
-    <img src="https://img.shields.io/github/last-commit/gdsc-aec-india/gdsc-aec-web">
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgdsc-aec-india%2Fgdsc-aec-web&count_bg=%2379C83D&title_bg=%23555555&icon=gimp.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+    <img src="https://img.shields.io/github/issues-raw/gdsc-aec-india/GDSCAEC-WEBSITE"> 
+    <img src="https://img.shields.io/github/contributors/gdsc-aec-india/GDSCAEC-WEBSITE">
+    <img src="https://img.shields.io/github/issues-pr/gdsc-aec-india/GDSCAEC-WEBSITE">
+    <img src="https://img.shields.io/github/license/gdsc-aec-india/GDSCAEC-WEBSITE">
+    <img src="https://img.shields.io/github/last-commit/gdsc-aec-india/GDSCAEC-WEBSITE">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgdsc-aec-india%2FGDSCAEC-WEBSITE&count_bg=%2379C83D&title_bg=%23555555&icon=gimp.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     <img src="https://api.netlify.com/api/v1/badges/c432dfd8-3238-4782-baac-40d80621cfe8/deploy-status" />
 </p>
 
@@ -23,8 +23,8 @@ This repository has been created as an effort to encourage open source contribut
 
 ## 💻 Quickstart
 
--   Assign yourself an [issue](https://github.com/GDSC-AEC-INDIA/gdsc-aec-web/issues) and fork this repo. For more information read [CONTRIBUTING](./CONTRIBUTING.md)
--   Clone repo locally using `git clone https://github.com/gdsc-aec-india/gdsc-aec-web`
+-   Assign yourself an [issue](https://github.com/GDSC-AEC-INDIA/GDSCAEC-WEBSITE/issues) and fork this repo. For more information read [CONTRIBUTING](./CONTRIBUTING.md)
+-   Clone repo locally using `git clone https://github.com/gdsc-aec-india/GDSCAEC-WEBSITE`
 -   After cloning make sure you create a new branch by using `git checkout -b my-branch`
 -   Start making edits in the newly created git branch. Firstly, add your name in the [`CONTRIBUTORS`](./CONTRIBUTORS) file
 -   Add the modified/created files to the staging using `git add .`
@@ -48,7 +48,7 @@ Once an issue is assigned to an individual (and one individual only at a time) w
 
 ## ⚒️ Tools and Frameworks
 
-<h6 align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-CC6699?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=Bootstrap&logoColor=purple"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"></h6>
+<h6 align="center"><img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=02cff7"><img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=0390fc"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"></h6>
 
 <br>
 
@@ -78,7 +78,7 @@ To display your contributions to visitors and future contributors.
 
 This project is made possible by our valuable contributors.
 
-![Contributors](https://contributors-img.web.app/image?repo=gdsc-aec-india/gdsc-aec-web)
+![Contributors](https://contributors-img.web.app/image?repo=gdsc-aec-india/GDSCAEC-WEBSITE)
 
 <br>
 
