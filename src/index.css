@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.active{
+    color: rgb(101, 208, 237);
+    border-bottom: 2px solid #65d0ed; /* Add your desired underline styling */
+    padding-bottom: 23px;
+    transition: all 300ms;
+}
+
