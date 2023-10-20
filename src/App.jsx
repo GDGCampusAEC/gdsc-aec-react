@@ -13,7 +13,7 @@ import Team from "./components/Team/Team";
 function App() {
 
   return (
-    <div className="w-[100vw] h-auto">
+    <div className="w-[100vw] h-auto box-border overflow-x-hidden">
       <NavBar/>
       <Routes>
         <Route index element={<Home />} />
