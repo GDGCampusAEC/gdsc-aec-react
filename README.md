@@ -8,7 +8,7 @@
     <img src="https://api.netlify.com/api/v1/badges/c432dfd8-3238-4782-baac-40d80621cfe8/deploy-status" />
 </p>
 
-<h6 align="center"><img src="./assets/GDSC%20AEC%20BANNER.jpg" /></p></h6>
+<h6 align="center"><img src="https://raw.githubusercontent.com/gdsc-aec-india/branding/main/assets/GDSC-AEC-Community-Banner.png" /></p></h6>
 <h1 align="center"><code>&nbsp;GDSC AEC Community Website&nbsp;</code></h1>
 
 <a href="https://gdsc.community.dev/asansol-engineering-college-asansol/"> GDSC AEC </a>  is the official Google Developer Student Club (GDSC) of Asansol Engineering College (AEC). It is a community group for students who are passionate about technology, software development and innovation. We also host events such as codesprints, tech talks, and workshops that aim to foster creativity, problem-solving skills, and a deeper understanding of Google technologies. One of our main aims is to be inclusive and open to students of all experience levels, including those who are new to technology and programming. Joining our fraternity might help you with networking opportunities, skill development, and the chance to work on projects that can make a real impact.
