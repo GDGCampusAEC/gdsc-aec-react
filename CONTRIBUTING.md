@@ -26,8 +26,8 @@ Follow the steps below to get started with contributing to [GDSC AEC Official We
 
 ### 4. RUN the following command on your terminal
 
-     run npm i
-     run npm start
+     npm i
+     npm start
 
 ### 3. Explore the Codebase
    - Take some time to explore the project's codebase. You can do this by navigating through the files and directories in the cloned repository.
