@@ -16,7 +16,8 @@
 
 This repository has been created as an effort to encourage open source contributions as well as to help people get acquainted with Hacktoberfest.
 
-This is the student-run community site of GDSC AEC Chapter using React with Vite and Tailwind.For any queries join our [Discord](https://discord.gg/r5C2yRwqva) community chats and feel free to [connect with us](https://gdscaec.bio.link).
+This is the student-run community site of GDSC AEC Chapter ,it is no longer just an HTML, CSS, and JS Website.Now It is using React with Vite and Tailwind.
+For any queries join our [Discord](https://discord.gg/r5C2yRwqva) community chats and feel free to [connect with us](https://gdscaec.bio.link).
 
 <br>
 
