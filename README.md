@@ -16,7 +16,7 @@
 
 This repository has been created as an effort to encourage open source contributions as well as to help people get acquainted with Hacktoberfest.
 
- This is the student-run community site of GDSC AEC Chapter using HTML, CSS and JavaScript. For any queries join our [Discord](https://discord.gg/r5C2yRwqva) community chats and feel free to [connect with us](https://gdscaec.bio.link).
+This is the student-run community site of GDSC AEC Chapter using React with Vite and Tailwind.For any queries join our [Discord](https://discord.gg/r5C2yRwqva) community chats and feel free to [connect with us](https://gdscaec.bio.link).
 
 <br>
 
@@ -27,9 +27,15 @@ This repository has been created as an effort to encourage open source contribut
 -   Assign yourself an [issue](https://github.com/GDSC-AEC-INDIA/GDSCAEC-WEBSITE/issues) and fork this repo. For more information read [CONTRIBUTING](./CONTRIBUTING.md)
 -   Clone repo locally using `git clone https://github.com/gdsc-aec-india/GDSCAEC-WEBSITE`
 -   After cloning make sure you create a new branch by using `git checkout -b my-branch`
+-   Now , run this following commands in your terminal.
+-     cd GDSCAEC-WEBSITE
+      npm i
+      npm start
 -   Start making edits in the newly created git branch. Firstly, add your name in the [`CONTRIBUTORS`](./CONTRIBUTORS) file
 -   Add the modified/created files to the staging using `git add .`
 -   Commit the changes made into the checked out branch using `git commit -m "commit message"`
+-   Sync your local clone in our repositories section on github and add this script `git pull 
+    origin your_branch_name` to resolve your merge conflict locally
 -   Push the changes using `git push origin my-branch`
 
 And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
