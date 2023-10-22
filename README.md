@@ -8,14 +8,16 @@
     <img src="https://api.netlify.com/api/v1/badges/c432dfd8-3238-4782-baac-40d80621cfe8/deploy-status" />
 </p>
 
-<h6 align="center"><img src="./assets/GDSC%20AEC%20BANNER.jpg" /></p></h6>
+<h6 align="center"><img src="https://raw.githubusercontent.com/gdsc-aec-india/branding/main/assets/GDSC-AEC-Community-Banner.png" /></h6>
+<p align="center"><img src="https://raw.githubusercontent.com/gdsc-aec-india/branding/main/assets/GDSC-AEC-Logo.png" height="100px"/></p>
 <h1 align="center"><code>&nbsp;GDSC AEC Community Website&nbsp;</code></h1>
 
 <a href="https://gdsc.community.dev/asansol-engineering-college-asansol/"> GDSC AEC </a>  is the official Google Developer Student Club (GDSC) of Asansol Engineering College (AEC). It is a community group for students who are passionate about technology, software development and innovation. We also host events such as codesprints, tech talks, and workshops that aim to foster creativity, problem-solving skills, and a deeper understanding of Google technologies. One of our main aims is to be inclusive and open to students of all experience levels, including those who are new to technology and programming. Joining our fraternity might help you with networking opportunities, skill development, and the chance to work on projects that can make a real impact.
 
 This repository has been created as an effort to encourage open source contributions as well as to help people get acquainted with Hacktoberfest.
 
- This is the student-run community site of GDSC AEC Chapter using HTML, CSS and JavaScript. For any queries join our [Discord](https://discord.gg/r5C2yRwqva) community chats and feel free to [connect with us](https://gdscaec.bio.link).
+This is the student-run community site of GDSC AEC Chapter ,it is no longer just an HTML, CSS, and JS Website.Now It is using React with Vite and Tailwind.
+For any queries join our [Discord](https://discord.gg/r5C2yRwqva) community chats and feel free to [connect with us](https://gdscaec.bio.link).
 
 <br>
 
@@ -26,9 +28,14 @@ This repository has been created as an effort to encourage open source contribut
 -   Assign yourself an [issue](https://github.com/GDSC-AEC-INDIA/GDSCAEC-WEBSITE/issues) and fork this repo. For more information read [CONTRIBUTING](./CONTRIBUTING.md)
 -   Clone repo locally using `git clone https://github.com/gdsc-aec-india/GDSCAEC-WEBSITE`
 -   After cloning make sure you create a new branch by using `git checkout -b my-branch`
+-   Now , run this following commands in your terminal.
+-     cd GDSCAEC-WEBSITE
+      npm i
+      npm start
 -   Start making edits in the newly created git branch. Firstly, add your name in the [`CONTRIBUTORS`](./CONTRIBUTORS) file
 -   Add the modified/created files to the staging using `git add .`
 -   Commit the changes made into the checked out branch using `git commit -m "commit message"`
+-   Sync your local clone in our repositories section on github and add this script `git pull origin your_branch_name` to resolve your merge conflict locally
 -   Push the changes using `git push origin my-branch`
 
 And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
