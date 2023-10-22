@@ -1,4 +1,3 @@
-import React from 'react'
 import Logo from '../Assests/gdsc-logo.png'
 const Navbar = () => {
   return (
