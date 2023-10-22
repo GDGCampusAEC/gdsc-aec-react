@@ -35,8 +35,7 @@ For any queries join our [Discord](https://discord.gg/r5C2yRwqva) community chat
 -   Start making edits in the newly created git branch. Firstly, add your name in the [`CONTRIBUTORS`](./CONTRIBUTORS) file
 -   Add the modified/created files to the staging using `git add .`
 -   Commit the changes made into the checked out branch using `git commit -m "commit message"`
--   Sync your local clone in our repositories section on github and add this script `git pull 
-    origin your_branch_name` to resolve your merge conflict locally
+-   Sync your local clone in our repositories section on github and add this script `git pull origin your_branch_name` to resolve your merge conflict locally
 -   Push the changes using `git push origin my-branch`
 
 And if you like the project, but just don't have time to contribute, that's fine. There are other easy ways to support the project and show your appreciation, which we would also be very happy about:
