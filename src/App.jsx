@@ -1,11 +1,13 @@
-import Navbar from "./components/Navbar"
+import Navbar from "./components/NavBar/NavBar";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
-    <div className='h-[100%] w-[100vw] overflow-x-hidden box-border'>
+    <div>
       <Navbar/>
+      <Footer />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
