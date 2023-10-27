@@ -1,7 +1,13 @@
+import Navbar from "./components/NavBar/NavBar";
+import Footer from "./components/footer/Footer";
+
 function App() {
   return (
-    <div className='bg-red-600'>GDSC</div>
-  )
+    <div>
+      <Navbar/>
+      <Footer />
+    </div>
+  );
 }
 
-export default App
+export default App;
