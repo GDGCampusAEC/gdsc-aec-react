@@ -4,11 +4,7 @@ import { FaLinkedin, FaInstagram, FaTwitter } from "react-icons/fa";
 export default function Footer() {
   return (
     <div className="relative text-slate-600 bg-slate-950">
-<<<<<<< HEAD
       <div className="flex flex-col md:flex-row justify-between pt-4 ml-4 md:ml-[10rem] mr-4 md:mr-[10rem]">
-=======
-      <div className="flex flex-col md:flex-row justify-between ml-4 md:ml-[10rem] mr-4 md:mr-[10rem]">
->>>>>>> 8edfb0f806db73a6c5fa74aa22c70469c2ea7a62
         <div className="mb-4 text-center md:text-left md:mb-0">
           <p className="text-[#6D6D6D] text-base not-italic font-extrabold leading-[29.2px] uppercase">
             Dive into the new world of in-house music
@@ -41,7 +37,6 @@ export default function Footer() {
           </p>
           <ul className="flex justify-center gap-3 md:justify-start">
             <li>
-<<<<<<< HEAD
               <FaInstagram size="3em" />
             </li>
             <li>
@@ -49,15 +44,6 @@ export default function Footer() {
             </li>
             <li>
               <FaLinkedin size="3em" />
-=======
-              <FaInstagram size="2em" />
-            </li>
-            <li>
-              <FaTwitter size="2em" />
-            </li>
-            <li>
-              <FaLinkedin size="2em" />
->>>>>>> 8edfb0f806db73a6c5fa74aa22c70469c2ea7a62
             </li>
           </ul>
         </div>
