@@ -1,4 +1,4 @@
-import contactus from "../../assets/contactus.png";
+import contactus from "../assets/contactus.png";
 export default function ContactUs() {
   return (
     <div>
