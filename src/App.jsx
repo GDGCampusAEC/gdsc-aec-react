@@ -1,7 +1,5 @@
-import ContactUs from "./components/contact/ContactUs";
-import Footer from "./components/footer/Footer";
-import Team from "./components/team/Team";
-import Navbar from "./components/NavBar/NavBar";
+import {Navbar,Team,ContactUs,Footer} from "./components";
+
 
 function App() {
   return (
