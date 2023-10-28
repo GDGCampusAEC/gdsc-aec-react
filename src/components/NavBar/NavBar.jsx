@@ -1,8 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import Logo from "../../Assests/gdsc-logo.png";
-import { NavLink } from "react-router-dom";
-import "./NavBar.css";
 const Navbar = () => {
   const [click, setClick] = useState(false);
 
@@ -24,21 +22,21 @@ const Navbar = () => {
         )}
         {click && (
           <div
-            className="w-[12rem] h-[20rem] bg-white absolute z-10 top-0 right-0 block lg:hidden md:hidden rounded-lg"
+            className="w-[12rem] h-[17rem] bg-white absolute z-10 top-0 right-0 block lg:hidden md:hidden rounded-lg"
             style={{ boxShadow: " 0 0 10px rgba(0, 0, 0, 0.2)" }}
           >
             <ul className=" flex flex-col justify-center mt-[13vh] gap-4 items-center text-md text-[#535353]">
               <li className="hover:border-b-2 hover:border-b-blue-400 hover:cursor-pointer hover:text-blue-500">
-                <NavLink to="/">About us</NavLink>
+                <a href="#about">About us</a>
               </li>
               <li className="hover:border-b-2 hover:border-b-blue-400 hover:cursor-pointer hover:text-blue-500">
-                <NavLink to="/event">Event</NavLink>
+                <a href="#event">Event</a>
               </li>
               <li className="hover:border-b-2 hover:border-b-blue-400 hover:cursor-pointer hover:text-blue-500">
-                <NavLink to="/team">Our team</NavLink>
+                <a href="#team">Our team</a>
               </li>
               <li className="hover:border-b-2 hover:border-b-blue-400 hover:cursor-pointer hover:text-blue-500">
-                <NavLink to="/contact">Contact</NavLink>
+                <a href="#contact">Contact</a>
               </li>
             </ul>
           </div>
@@ -51,16 +49,16 @@ const Navbar = () => {
       >
         <ul className=" flex justify-center items-center  gap-12 text-sm h-[6.4vh] text-[#535353] transition-all delay-300">
           <li className="hover:border-b-2 hover:border-b-blue-400 hover:cursor-pointer hover:text-blue-500">
-            <NavLink to="/">About us</NavLink>
+            <a href="#about">About us</a>
           </li>
           <li className="hover:border-b-2 hover:border-b-blue-400 hover:cursor-pointer hover:text-blue-500">
-            <NavLink to="/about">Event</NavLink>
+            <a href="#event">Event</a>
           </li>
           <li className="hover:border-b-2 hover:border-b-blue-400 hover:cursor-pointer hover:text-blue-500">
-            <NavLink to="/team">Our team</NavLink>
+            <a href="#team">Our team</a>
           </li>
           <li className="hover:border-b-2 hover:border-b-blue-400 hover:cursor-pointer hover:text-blue-500">
-            <NavLink to="/contact">Contact</NavLink>
+            <a href="#contact">Contact</a>
           </li>
         </ul>
       </div>
