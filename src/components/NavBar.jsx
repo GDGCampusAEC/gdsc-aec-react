@@ -1,10 +1,5 @@
-<<<<<<< HEAD:src/components/NavBar.jsx
-import React from 'react'
-import Logo from '../assets/gdsc-logo.png'
-=======
 import React from "react";
-import Logo from "../../assets/gdsc-logo.png";
->>>>>>> team/initial-design:src/components/NavBar/NavBar.jsx
+import Logo from "../assets/gdsc-logo.png";
 const Navbar = () => {
   return (
     <div className="w-[100%]  flex justify-center items-center py-6 relative">

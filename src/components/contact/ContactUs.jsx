@@ -1,5 +1,6 @@
 import contactus from "../../assets/contactus.png";
 export default function ContactUs() {
+  const contactUsHandler = (e) => {};
   return (
     <div className="flex flex-col p-10 pt-[10rem] pb-[10rem] justify-evenly md:flex-row">
       <img src={contactus} className="max-w-full" alt="Contact Us" />
@@ -29,6 +30,12 @@ export default function ContactUs() {
             name="Message"
             placeholder="Message"
           ></textarea>
+          <input
+            className="bg-blue-700 w-[13.6875rem] h-[3.75rem] m-4 rounded-3xl text-white text-[1.375] "
+            type="submit"
+            value="Submit"
+            onClick={contactUsHandler}
+          />
         </form>
       </div>
     </div>
