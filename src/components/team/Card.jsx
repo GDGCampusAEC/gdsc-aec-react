@@ -1,10 +1,19 @@
 import { FaLinkedin, FaGithub, FaTwitter } from "react-icons/fa";
-export default function Card({ name, image, role, linkedin, github, twitter }) {
+export default function Card({
+  name,
+  image,
+  role,
+  linkedin,
+  github,
+  twitter,
+  colour,
+}) {
+  console.log(colour);
+  const className = `flex flex-col m-6 justify-center gap-2 items-center shadow-[0px_0px_15px_2px_rgba(0,0,0,0.17)] border-b-8 border-b-[${colour}] border-solid
+  w-[18rem] h-[22rem] shrink-0`;
+
   return (
-    <div
-      className="flex flex-col justify-center gap-2 items-center shadow-[0px_0px_15px_2px_rgba(0,0,0,0.17)] border-b-8 border-b-[#34A853] border-solid
-     w-[18rem] h-[22rem] shrink-0"
-    >
+    <div className={className}>
       <img
         className="text-[#1C1C1C] rounded-[31.25rem] w-[11.25rem] h-[11.25rem]"
         src={image}
