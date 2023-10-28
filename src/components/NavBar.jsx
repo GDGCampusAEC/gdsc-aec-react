@@ -1,5 +1,5 @@
 import React from 'react'
-import Logo from '../../Assests/gdsc-logo.png'
+import Logo from '../assets/gdsc-logo.png'
 const Navbar = () => {
   return (
     <div className='w-[100%]  flex justify-center items-center py-6 relative'>

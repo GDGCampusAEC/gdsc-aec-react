@@ -1,10 +1,12 @@
-import Navbar from "./components/NavBar/NavBar";
-import Footer from "./components/footer/Footer";
+import {Navbar,Team,ContactUs,Footer} from "./components";
+
 
 function App() {
   return (
     <div>
       <Navbar/>
+      <Team />
+      <ContactUs />
       <Footer />
     </div>
   );
