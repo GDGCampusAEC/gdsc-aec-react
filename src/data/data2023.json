@@ -7,7 +7,8 @@
             "githubUrl": "https://github.com/TheCodeVenturer",
             "twitterUrl": "https://twitter.com/TheCodeVenturer",
             "websiteUrl": "https://thecodeventurer.github.io/",
-            "roleType": 1
+            "roleType": 1,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Niraj%20Modi.png"
         },
         {
             "name": "Jayanta Pandit",
@@ -16,7 +17,8 @@
             "githubUrl": "https://github.com/jayzsh",
             "twitterUrl": "https://x.com/74HSALAK",
             "websiteUrl": "https://jayantapandit.me",
-            "roleType": 2
+            "roleType": 2,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Jayanta%20Pandit.png"
         },
         {
             "name": "Bishal Bhattacharjee",
@@ -25,7 +27,8 @@
             "githubUrl": "https://github.com/Bishal097",
             "twitterUrl": "https://twitter.com/Code_by_Bishal",
             "websiteUrl": "",
-            "roleType": 2
+            "roleType": 2,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Bishal%20Bhattacharjee.png"
         },
         {
             "name": "Anirban Sinha",
@@ -34,7 +37,8 @@
             "githubUrl": "https://github.com/anirban6102",
             "twitterUrl": "",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Anirban%20Sinha.png"
         },
         {
             "name": "Arnab Chatterjee",
@@ -43,16 +47,18 @@
             "githubUrl": "https://github.com/ArnabChatterjee20k",
             "twitterUrl": "https://twitter.com/arnabch20k",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Arnab%20Chatterjee.png"
         },
         {
-            "name": "Moulina Panday ",
+            "name": "Moulina Panday",
             "role": "AI/ML Lead",
             "linkedinUrl": "https://www.linkedin.com/in/moulina-panday-460590215/",
             "githubUrl": "https://github.com/PandayMoulina",
             "twitterUrl": "https://twitter.com/Moulina_Panday",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Moulina%20Panday.png"
         },
         {
             "name": "Aditya Shaw",
@@ -61,7 +67,8 @@
             "githubUrl": "https://github.com/AdityaShaw1",
             "twitterUrl": "https://x.com/Aditya_Shaw_1?t=XH2mWEPwJ_uGWzXGSPaO-g&s=09",
             "websiteUrl": "https://portfolioadi.super.site/",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Aditya%20Shaw.png"
         },
         {
             "name": "Md Amir Khan",
@@ -70,7 +77,8 @@
             "githubUrl": "https://github.com/aamiiir",
             "twitterUrl": "https://x.com/aamiiiiiiiirrr?s=21",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Md%20Amir%20Khan.png"
         },
         {
             "name": "Rounak Kayal",
@@ -79,7 +87,8 @@
             "githubUrl": "https://github.com/rk2003kayal",
             "twitterUrl": "",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Rounak%20Kayal.png"
         },
         {
             "name": "Riya Kumari",
@@ -88,16 +97,18 @@
             "githubUrl": "https://github.com/CSERiya",
             "twitterUrl": "",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Riya%20Kumari.png"
         },
         {
-            "name": "GOURAV RAJAK",
+            "name": "Gourav Rajak",
             "role": "AI/ML Facilitator",
             "linkedinUrl": "https://www.linkedin.com/in/gourav-rajak-012947242/",
             "githubUrl": "",
             "twitterUrl": "",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Gourav%20Rajak.png"
         },
         {
             "name": "Rajdip Sinha",
@@ -107,7 +118,7 @@
             "twitterUrl": "https://x.com/rajdips834?t=K0E58jxs0sleVQUDzLAvjw&s=09",
             "websiteUrl": "",
             "roleType": 3,
-            "image":"../../assets/coreTeamPictures/rajdipSinha.png"
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Rajdip%20Sinha.png"
         },
         {
             "name": "Shivam kumar shaw",
@@ -116,7 +127,8 @@
             "githubUrl": "https://github.com/shivamshaw07",
             "twitterUrl": "https://x.com/shivamshaw007?t=KXNC-AeZDDKuI9KwfW1gsQ&s=08",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Shivam%20Kumar%20Shaw.png"
         },
         {
             "name": "Bikash Agarwala",
@@ -125,16 +137,18 @@
             "githubUrl": "https://github.com/Bikash-Agrawala",
             "twitterUrl": "",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Bikash%20Agarwala.png"
         },
         {
-            "name": "Bhumi Sinha ",
+            "name": "Bhumi Sinha",
             "role": "Content Writer",
             "linkedinUrl": "https://www.linkedin.com/in/bhumi-sinha-ba4aab258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
             "githubUrl": "https://github.com/BHUMISINHA18",
             "twitterUrl": "https://x.com/Bhumisinha__?t=TtMv_bZOYjBk44L9bP1D7w&s=09",
             "websiteUrl": "",
-            "roleType": 3
+            "roleType": 3,
+            "image":"https://raw.githubusercontent.com/gdsc-aec-india/GDSCAEC-WEBSITE/main/src/assets/coreTeamPictures/Bhumi%20Sinha.png"
         }
     ],
     "events": [
