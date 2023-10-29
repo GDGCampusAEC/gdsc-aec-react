@@ -8,10 +8,10 @@ export default function Card({
   twitter,
   colour,
 }) {
-  console.log(image);
-  console.log(colour);
+  // console.log(image);
+  // console.log(colour);
   const className = `flex flex-col m-6 justify-center gap-2 items-center shadow-[0px_0px_15px_2px_rgba(0,0,0,0.17)] border-b-8 border-b-[${colour}] border-solid
-  w-[18rem] h-[22rem] shrink-0`;
+  w-[18rem] h-[22rem] shrink-0 rounded-[1rem]`;
 
   return (
     <div className={className}>
